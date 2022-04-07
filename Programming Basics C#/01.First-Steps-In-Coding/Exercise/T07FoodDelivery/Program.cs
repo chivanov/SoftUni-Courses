@@ -6,14 +6,7 @@ namespace T07FoodDelivery
     {
         static void Main(string[] args)
         {
-            //•	Брой пилешки менюта – цяло число в интервала[0 … 99]
-            //•	Брой менюта с риба – цяло число в интервала[0 … 99]
-            //•	Брой вегетариански менюта – цяло число в интервала[0 … 99]
-            //•	Пилешко меню –  10.35 лв.
-            //•	Меню с риба – 12.40 лв.
-            //•	Вегетарианско меню  – 8.15 лв.
-            // delivery - 2.50
-
+          
             int chickenCount = int.Parse(Console.ReadLine());
             int fishCount = int.Parse(Console.ReadLine());
             int vegeterianCount = int.Parse(Console.ReadLine());
