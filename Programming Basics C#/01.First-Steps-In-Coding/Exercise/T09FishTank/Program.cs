@@ -6,6 +6,11 @@ namespace T09FishTank
     {
         static void Main(string[] args)
         {
+<<<<<<< .mine
+
+=======
+         
+>>>>>>> .theirs
             int lenght = int.Parse(Console.ReadLine());
             int width = int.Parse(Console.ReadLine());
             int height = int.Parse(Console.ReadLine());

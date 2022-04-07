@@ -6,7 +6,11 @@ namespace T03DepositCalculator
     {
         static void Main(string[] args)
         {
+<<<<<<< .mine
            
+=======
+          
+>>>>>>> .theirs
             double deposit = double.Parse(Console.ReadLine());
             int depositPeriod = int.Parse(Console.ReadLine());
             double anualInterest = double.Parse(Console.ReadLine());
