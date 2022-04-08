@@ -6,10 +6,7 @@ namespace T08.OnTimeForTheExam
     {
         static void Main(string[] args)
         {
-            //•	Първият ред съдържа час на изпита – цяло число от 0 до 23.
-            //•	Вторият ред съдържа минута на изпита – цяло число от 0 до 59.
-            //•	Третият ред съдържа час на пристигане – цяло число от 0 до 23.
-            //•	Четвъртият ред съдържа минута на пристигане – цяло число от 0 до 59.
+           
             int examHour = int.Parse(Console.ReadLine());
             int examMinutes = int.Parse(Console.ReadLine());
             int arrivalHour = int.Parse(Console.ReadLine());

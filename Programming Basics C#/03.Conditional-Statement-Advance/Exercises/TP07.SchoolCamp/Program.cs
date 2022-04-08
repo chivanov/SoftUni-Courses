@@ -16,8 +16,7 @@ namespace TP07.SchoolCamp
             string sportType = "";
 
            
-            //2.Видът на групата – текст - “boys”, “girls” или “mixed”;
-
+           
             switch (season)
             {
                 case "Winter":
