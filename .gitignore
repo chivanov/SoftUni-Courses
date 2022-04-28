@@ -3,6 +3,7 @@ obj
 .vs
 .sln
 *.sln
+.docx
 Programming-Basics-C\#/01.First-Steps-In-Coding/Exercise/Fishland/Fishland.csproj
 Programming-Basics-C\#/01.First-Steps-In-Coding/Exercise/Fishland/Program.cs
 Programming-Basics-C\#/01.First-Steps-In-Coding/Exercise/T01USDToBGN/Program.cs
