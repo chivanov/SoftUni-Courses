@@ -1,8 +1,8 @@
 
 The Programming Basics course provides basic programming skills needed for all technological 
-specialties at the Softwere University. This include wrriting basic coding skills, working with
+specialties at the Software University. This includes writing basic coding skills, working with
 a development environment (IDE), using variables and data, operators and expressions, working
-with the console(reading input and printing results), using conditional constructors (if, if-else)
+with the console (reading input and printing results), using conditional constructors (if, if-else)
  and loops (for, while, do-while).
 
 Acquiring skills:
