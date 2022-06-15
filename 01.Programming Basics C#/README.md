@@ -10,7 +10,6 @@ Acquiring skills:
 - Work with more complex logical checks
 - Working with logical checks (if-else)
 - Perform simple calculations
-<<<<<<< .mine
 - Working with more complex loops (nested for loops and while)
 Topics:
 1.First Steps in Coding 
