@@ -31,8 +31,6 @@ Topics:
   • While Loop;
   • Repetition interrupt operators.
 6.Nested Loop
-=======
-- Working with more complex loops (nested for loops and while)
 
 
 
@@ -52,4 +50,5 @@ Topics:
 
 
 
->>>>>>> .theirs
+
+
