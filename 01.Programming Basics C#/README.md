@@ -10,23 +10,46 @@ Acquiring skills:
 - Work with more complex logical checks
 - Working with logical checks (if-else)
 - Perform simple calculations
+<<<<<<< .mine
 - Working with more complex loops (nested for loops and while)
 Topics:
 1.First Steps in Coding 
-  â€¢ Writing very simple programs;
-  â€¢ Simple operations and calculations.
+  • Writing very simple programs;
+  • Simple operations and calculations.
 2.Conditional Statement
-  â€¢ Conditional statements (if, if-else);
-  â€¢ Logical expressions;
-  â€¢ Tasks
+  • Conditional statements (if, if-else);
+  • Logical expressions;
+  • Tasks
 3.Conditional Statement Advance
-  â€¢ Nested conditional structures;
-  â€¢ Switch-construction formatted output;
+  • Nested conditional structures;
+  • Switch-construction formatted output;
 4.For Loop
-  â€¢ For Loop;
-  â€¢ Control variables;
-  â€¢ Incrementation.
+  • For Loop;
+  • Control variables;
+  • Incrementation.
 5.While Loop
-  â€¢ While Loop;
-  â€¢ Repetition interrupt operators.
+  • While Loop;
+  • Repetition interrupt operators.
 6.Nested Loop
+=======
+- Working with more complex loops (nested for loops and while)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
